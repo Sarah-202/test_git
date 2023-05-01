@@ -1,0 +1,62 @@
+body {background-color: MediumSeaGreen;}
+
+
+.article_title {color: yellow;
+  text-align: center;}
+
+.Egypt {background-color: Orange;
+  padding: 15px;}
+
+.Egypt div.flower_names {color: black;
+  width: 600px;
+
+  float: left;}
+
+.Egypt .flower_images {width: 650px;
+
+  float: right;}
+
+.Egypt .flower_images img {width: 130px;
+  height: 130px;
+  margin: 10px;}
+
+.clear{clear: both;}
+
+.Germany {background-color: Violet;
+padding: 15px;
+margin-top: 20px;}
+
+.Germany div.flower_names {color: black;
+width: 600px;
+
+float: left;}
+
+.Germany .flower_images {width: 650px;
+
+float: right;}
+
+.Germany .flower_images img {width: 130px;
+height: 130px;
+margin: 10px;}
+
+.clear{clear: both;}
+
+
+.Turkey {background-color: DeepSkyBlue;
+padding: 15px;
+margin-top: 20px;}
+
+.Turkey div.flower_names {color: black;
+width: 600px;
+
+float: left;}
+
+.Turkey .flower_images {width: 650px;
+
+float: right;}
+
+.Turkey .flower_images img {width: 130px;
+height: 130px;
+margin: 10px;}
+
+.clear{clear: both;}
